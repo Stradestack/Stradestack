@@ -20,6 +20,7 @@
   - [Metasploit](https://github.com/Stradestack/)
 - <b>Privilege Escalation</b>
   - [GTFOBins](https://github.com/Stradestack/)
+  - [LOLBAS](https://github.com/Stradestack/)
 - <b>Reporting</b>
   - [PentestReports.com](https://github.com/Stradestack/)
 
