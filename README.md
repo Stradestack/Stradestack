@@ -11,10 +11,13 @@
 
 - <b>Reconnaissance</b>
   - [WPScan](https://github.com/Stradestack/)
+  - [Burpsuite](https://github.com/Stradestack/)
 - <b>Scanning</b>
   - [Nmap](https://github.com/Stradestack/)
+  - [Nessus](https://github.com/Stradestack/)
 - <b>Exploitation</b>
   - [SQLMap](https://github.com/Stradestack/)
+  - [Metasploit](https://github.com/Stradestack/)
 - <b>Privilege Escalation</b>
   - [GTFOBins](https://github.com/Stradestack/)
 - <b>Reporting</b>
