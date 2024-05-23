@@ -22,7 +22,7 @@
   - [GTFOBins](https://github.com/Stradestack/)
   - [LOLBAS](https://github.com/Stradestack/)
 - <b>Reporting</b>
-  - [PentestReports.com](https://github.com/Stradestack/)
+  - [PentestReports.com](https://pentestreports.com/)
 
 <h2> 💬 Connect with me:</h2>
 
