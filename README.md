@@ -12,6 +12,7 @@
 - <b>Reconnaissance</b>
   - [WPScan](https://github.com/Stradestack/)
   - [Burpsuite](https://github.com/Stradestack/)
+  - [Shodan](https://github.com/Stradestack/)
 - <b>Scanning</b>
   - [Nmap](https://github.com/Stradestack/)
   - [Nessus](https://github.com/Stradestack/)
