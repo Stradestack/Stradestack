@@ -3,7 +3,7 @@
 
 <h2>🪐 Cybersecurity Projects</h2>
 
-- [My Home Lab](https://github.com/Stradestack/)
+- [My Home Lab](https://github.com/Stradestack/Home-Lab/tree/main)
 - [Creating a SIEM](https://github.com/Stradestack/)
 - [A Kinda Private Laptop](https://github.com/Stradestack/)
 
