@@ -10,15 +10,16 @@
 <h2>🔧 Some of the tools i use</h2>
 
 - <b>Reconnaissance</b>
-  - [WPScan](https://github.com/Stradestack/)
   - [Burpsuite](https://github.com/Stradestack/)
 - <b>Scanning</b>
+  - [WPScan](https://github.com/Stradestack/)
   - [Nmap](https://github.com/Stradestack/)
   - [Nessus](https://github.com/Stradestack/)
   - [Shodan](https://github.com/Stradestack/)
 - <b>Exploitation</b>
   - [SQLMap](https://github.com/Stradestack/)
   - [Metasploit](https://github.com/Stradestack/)
+  - [evil-winrm](https://github.com/Stradestack/)
 - <b>Privilege Escalation</b>
   - [GTFOBins](https://github.com/Stradestack/)
   - [LOLBAS](https://github.com/Stradestack/)
