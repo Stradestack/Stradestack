@@ -1,6 +1,7 @@
 <h1>Hi, I'm Bailey!
 
-Welcome to my github :)
+
+<h2> Welcome to my github :) </h2>
 
 <h2> 💬 Connect with me:</h2>
 
