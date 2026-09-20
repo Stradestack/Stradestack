@@ -1,5 +1,7 @@
 <h1>Hi, I'm Bailey!
 
+Welcome to my github :)
+
 <h2> 💬 Connect with me:</h2>
 
 [<img align="left" alt="Baileyfullerton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
