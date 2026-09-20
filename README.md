@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bailey!
+<h1>Hi, I'm Bailey! </h1>
 
 
 <b> Welcome to my github :) </b>
