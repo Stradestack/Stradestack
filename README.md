@@ -33,7 +33,7 @@
 [<img align="left" alt="Baileyfullerton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Baileyfullerton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/baileyfullerton
+[twitter]: https://twitter.com/stradestack
 [linkedin]: https://linkedin.com/in/baileyfullerton
 
 <!--
