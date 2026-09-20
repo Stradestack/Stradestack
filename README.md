@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bailey!
 
 
-<h2> Welcome to my github :) </h2>
+<b> Welcome to my github :) </b>
 
 <h2> 💬 Connect with me:</h2>
 
